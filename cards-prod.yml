@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Hey, welcome to EazyBank cards related webhook APIs (C2 Bus) OK 1"
+  message: "Hey, welcome to EazyBank cards related webhook APIs (C2 Bus) OK 1. 2025.02.22 17:16"
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@eazybank.com"
